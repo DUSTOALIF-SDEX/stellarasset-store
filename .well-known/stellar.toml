@@ -1,5 +1,5 @@
-VERSION="2.0.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="1.0.0"
 HORIZON_URL="https://horizon.stellar.org"
 HOME_DOMAIN="https:/stellarasset.store"
 FEDERATION_SERVER="https:/stellarasset.store/federation"
