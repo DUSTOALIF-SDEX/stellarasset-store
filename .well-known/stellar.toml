@@ -14,7 +14,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="AIROX is an AI-powered digital asset on Stellar"
 ORG_URL="https://www.stellarasset.store"
-ORG_LOGO="https://www.stellarasset.store/airox.png"
+ORG_LOGO="https://www.stellarasset.store/images/AIROX.png"
 ORG_DESCRIPTION="AIROX is an AI-powered digital asset on Stellar, built for smart finance, autonomous trading, and next-gen DeFi integration."
 ORG_OFFICIAL_EMAIL="AIROX@stellarasset.store"
 
@@ -25,7 +25,7 @@ display_decimals=5
 desc="AIROX is an AI-powered digital asset on Stellar, built for smart finance, autonomous trading, and next-gen DeFi integration."
 name="AIROX AI Token"
 status="live"
-image="https://www.stellarasset.store/airox.png"
+image="https://www.stellarasset.store/images/AIROX.png"
 fixed_number=10000000000
 
 [[PRINCIPALS]]
